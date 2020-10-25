@@ -1,2 +1,2 @@
-# react-dropdown-menu-component
+# dropdown-menu-component
 Created with CodeSandbox
